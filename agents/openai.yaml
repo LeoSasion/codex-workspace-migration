@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex 工作区迁移"
+  short_description: "迁移项目与聊天工作目录，核验 Windows 外部入口、运行依赖和归档完整性"
+  default_prompt: "使用 $codex-workspace-migration 核对并迁移当前项目工作区，保留相关聊天、独立资料目录与运行数据，准备可恢复且经过完整验证的归档流程。"

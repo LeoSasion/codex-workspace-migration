@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# Keep private migration material outside this repository.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+*.log
+*.zip
+evidence/
+backups/
+receipts/
+private/
+
+# Editor / operating system metadata
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
